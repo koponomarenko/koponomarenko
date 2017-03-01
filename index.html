@@ -8,6 +8,15 @@ body {
   font-family: "Courier New", courier;
 }
 </style>
+<script>
+function setAdd() {
+  var username = "konstantin.ponomarenko";
+  var hostname = "gmail.com";
+  var connector = "@";
+  var text = username + connector + hostname;
+  document.getElementById("add").innerHTML += text;
+}
+</script>
 </head>
 
 <body>
@@ -19,11 +28,7 @@ body {
 <li id="add">Email: </li>
 </ul>
 <script>
-  var username = "konstantin.ponomarenko";
-  var hostname = "gmail.com";
-  var connector = "@";
-  var text = username + connector + hostname;
-  document.getElementById("add").innerHTML += text;
+setAdd();
 </script>
 </body>
 </html>
