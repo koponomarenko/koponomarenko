@@ -3,8 +3,27 @@
 <head>
 <meta charset="utf-8" />
 <title>My web page</title>
+<style>
+body {
+  font-family: "Courier New", courier;
+}
+</style>
 </head>
+
 <body>
 <h1>Kostiantyn Ponomarenko</h1>
+<ul style="list-style-type: none; padding: 0;">
+<li>GitHub: <a href="https://github.com/koponomarenko">https://github.com/koponomarenko</a></li>
+<li>Facebook: <a href="https://fb.com/ko.ponomarenko">https://fb.com/ko.ponomarenko</a></li>
+<li>LinkedIn: <a href="https://linkedin.com/in/koponomarenko">https://linkedin.com/in/koponomarenko</a></li>
+<li id="add">Email: </li>
+</ul>
+<script language="JavaScript">
+  var username = "konstantin.ponomarenko";
+  var hostname = "gmail.com";
+  var connector = "@";
+  var text = username + connector + hostname;
+  document.getElementById("add").innerHTML += text;
+</script>
 </body>
 </html>
