@@ -3,26 +3,38 @@
 <head>
 <meta charset="utf-8" />
 <title>My web page</title>
+
 <style>
 body {
-  font-family: "Courier New", courier;
+  #font-family: "Courier New", courier;
+  font-family: ReithSans,Arial,Helvetica,freesans,sans-serif;
 }
 </style>
+
 <script>
 function setAdd() {
-  var username = "koponomarenko7";
-  var hostname = "gmail.com";
+  var username1 = "koponomarenko7";
+  var hostname1 = "gmail.com";
   var connector = "@";
-  var text = username + connector + hostname;
-  document.getElementById("add").innerHTML += text;
+  var text1 = username1 + connector + hostname1;
+  document.getElementById("add1").innerHTML += text1;
+
+  var username2 = "koponomarenko7";
+  var hostname2 = "protonmail.com";
+  var connector = "@";
+  var text2 = username2 + connector + hostname2;
+  document.getElementById("add2").innerHTML += text2;
 }
 </script>
 </head>
 
 <body>
 <h1>Kostiantyn Ponomarenko</h1>
+<p>Let's make this world better. Let's evolve. Let's live life to the fullest.</p>
+<p>Each thing we own takes our time.</p>
+<br />
 
-<p>Соціальні проекти: [TODO: link]</p>
+<p>Соціальні проекти:</p>
 <ul>
   <li><a href="https://docs.google.com/document/d/11rO1bqiwLX2P8NUG1mlMrBgzskaXc7A74i1K3MR8o5I/edit?usp=sharing">інформаційний простір - джерела</a></li>
   <li><a href="https://docs.google.com/presentation/d/158nsQ6rfE9xZRq4E45xaDKHE8pv3fdwfFZ0zvmkRzOY/edit?usp=sharing">менеджер паролів</a></li>
@@ -38,9 +50,11 @@ function setAdd() {
   <li>Facebook: <a href="https://fb.com/ko.ponomarenko">https://fb.com/ko.ponomarenko</a></li>
 </ul>
 
+<br />
 <p>Contacts:</p>
 <ul>
-  <li id="add">email: </li>
+  <li id="add1">email: </li>
+  <li id="add2">email: </li>
 </ul>
 
 <script>
