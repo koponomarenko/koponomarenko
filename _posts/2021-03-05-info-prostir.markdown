@@ -210,7 +210,7 @@ title:  "Інформаційний простір - джерела"
 
 #### Подорожі <a name="подорожі"></a>
 
-- Living with the Dark Winters in Sweden | Midnight sun & Polar night: https://youtu.be/3zTR4ayDG38 
+- Living with the Dark Winters in Sweden \| Midnight sun & Polar night: https://youtu.be/3zTR4ayDG38
 
 - most amazing sights around the world: https://www.youtube.com/user/touropia 
 - Lost LeBlanc: https://www.youtube.com/c/lostleblanc 
