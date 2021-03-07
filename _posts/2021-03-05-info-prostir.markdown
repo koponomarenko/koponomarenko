@@ -3,8 +3,6 @@ layout: post
 title:  "Інформаційний простір - джерела"
 ---
 
-# Інформаційний простір - джерела
-
 - [Загальне](#загальне)
 - [Новини](#новини)
 - [Англомовні новини](#англомовні-новини)
@@ -15,7 +13,7 @@ title:  "Інформаційний простір - джерела"
 - [ІТ та програмування](#it-та-програмування)
     - [Linux distributions](#linux-distributions)
 
-#### Загальне
+### Загальне <a name="загальне"></a>
 
 - Телебачення Торонто: [YouTube](https://www.youtube.com/channel/UCF_ZiWz2Vcq1o5u5i1TT3Kw)
 
@@ -24,6 +22,7 @@ title:  "Інформаційний простір - джерела"
 - Твоя Підпільна Гуманітарка: [YouTube](https://www.youtube.com/channel/UCvDZ4ZSgzSt0rGgQpFV_r-A)
 - Ukraїner - експедиція Україною: [YouTube](https://www.youtube.com/channel/UCbNaKxi1j-Q5jWZDpJZp56g)
 - Kolegi Studio - Наші Без Раші: [YouTube](https://www.youtube.com/channel/UCGwARGVTJmetRpWEk2sIMYg)
+- Сергій Притула: [YouTube](https://www.youtube.com/channel/UCR2Pbg310vXj1_9o3Q2RaMw)
 
 - Космос - SpaceX: [website](https://www.spacex.com), [Twitter](https://twitter.com/SpaceX)
 - Космос - NASA: [YouTube](https://www.youtube.com/channel/UCLA_DiR1FfKNvjuUpBHmylQ), [Twitter](https://twitter.com/nasa), [Instagram](https://www.instagram.com/nasa)
@@ -40,13 +39,13 @@ title:  "Інформаційний простір - джерела"
 - Human innovation and technology: [YouTube](https://www.youtube.com/channel/UCXQ0opKNREpA62x7gMk_hZw)
 
 
-#### Новини <a name="новини"></a>
+### Новини <a name="новини"></a>
 
 - Радіо Свобода: [website](https://www.radiosvoboda.org), [Twitter](https://twitter.com/radiosvoboda), [Facebook](https://www.facebook.com/radiosvoboda.org)
 - Громадське Телебачення: [website](https://hromadske.ua), [Twitter](https://twitter.com/Hromadskeua), [Facebook](https://www.facebook.com/hromadskeua), [YouTube](https://www.youtube.com/channel/UC2oGvjIJwxn1KeZR3JtE-uQ)
 - BIHUS info: [website](https://bihus.info), [Twitter](https://twitter.com/BihusInfo), [YouTube](https://www.youtube.com/c/BIHUSinfo)
 
-#### Англомовні новини <a name="англомовні-новини"></a>
+### Англомовні новини <a name="англомовні-новини"></a>
 
 - The Verge: [website](https://www.theverge.com), [Twitter](https://twitter.com/vergereviews), [Facebook](https://www.facebook.com/verge)
 - TechCrunch: [website](https://techcrunch.com), [Twitter](https://twitter.com/techcrunch), [Facebook](https://www.facebook.com/techcrunch)
@@ -57,7 +56,7 @@ title:  "Інформаційний простір - джерела"
 
 - Elon Musk: [Twitter](https://twitter.com/elonmusk)
 
-#### Вчимо Англійську мову <a name="вчимо-англійську-мову"></a>
+### Вчимо Англійську мову <a name="вчимо-англійську-мову"></a>
 
 - Learn English with Alex [engVid]: [YouTube](https://www.youtube.com/channel/UClvwNCja3aXxqiFrsKC1DPQ)
 - JamesESL English Lessons (engVid): [YouTube](https://www.youtube.com/channel/UCwA7Aepp7nRUJNa8roQ-6Bw)
@@ -66,11 +65,11 @@ title:  "Інформаційний простір - джерела"
 
 - Phrasal Verb Cards: [Instagram](https://instagram.com/phrasalcards)
 
-##### Фільми та мультики Англійською мовою <a name="фільми-та-мультики-англійською-мовою"></a>
+#### Фільми та мультики Англійською мовою <a name="фільми-та-мультики-англійською-мовою"></a>
 
 - Netflix (платний ресурс) [website](https://www.netflix.com)
 
-#### Музика <a name="музика"></a>
+### Музика <a name="музика"></a>
 
 - Тарас Чубай & Плач Єремії - Вона: [YouTube Music](https://music.youtube.com/watch?v=EaQEnpYoA2U&feature=share)
 - Тарас Чубай - Я піду в далекі гори: [YouTube Music](https://music.youtube.com/watch?v=BFsWAjzAKeg&feature=share)
@@ -179,6 +178,10 @@ title:  "Інформаційний простір - джерела"
 - ТНМК - Восени: [YouTube Music](https://music.youtube.com/watch?v=LvTeJ-9wwII&feature=share)
 - ТНМК - Файне місто тернопіль: [YouTube Music](https://music.youtube.com/watch?v=px6oKtSmafg&feature=share)
 
+- Пирятин - Родіна: [YouTube Music](https://music.youtube.com/watch?v=CvRlFX90PMg&feature=share)
+- Жадан і Собаки - Мальви: [YouTube Music](https://music.youtube.com/watch?v=MA79bZOhUYQ&feature=share)
+- Zwyntar - Човен: [YouTube Music](https://music.youtube.com/watch?v=0fTuhBkxWlM&feature=share)
+
 - TVORCHI - Не танцюю: [YouTube Music](https://music.youtube.com/watch?v=3iRxdWWorw0&feature=share)
 - TVORCHI - Мова Тіла: [YouTube Music](https://music.youtube.com/watch?v=llcduMZEUqg&feature=share)
 - Go_A - Рано-раненько: [YouTube Music](https://music.youtube.com/watch?v=lozDLwXPKIs&feature=share)
@@ -187,7 +190,7 @@ title:  "Інформаційний простір - джерела"
 
 - Хаус музика (House music): [YouTube Music](https://music.youtube.com/search?q=House+music)
 
-#### Подорожі <a name="подорожі"></a>
+### Подорожі <a name="подорожі"></a>
 
 - Living with the Dark Winters in Sweden \| Midnight sun & Polar night: [YouTube](https://youtu.be/3zTR4ayDG38)
 
@@ -197,7 +200,7 @@ title:  "Інформаційний простір - джерела"
 - Indigo Traveller: [YouTube](https://www.youtube.com/channel/UCXulruMI7BHj3kGyosNa0jA)
 - vagabrothers: [YouTube](https://www.youtube.com/channel/UCa1WbVCkTqd5ecG6G2adIow)
 
-#### ІТ та програмування <a name="it-та-програмування"></a>
+### ІТ та програмування <a name="it-та-програмування"></a>
 
 - Dima Maleev: [YouTube](https://www.youtube.com/channel/UC20M3T-H-Pv0FPOEfeQJtNQ)
 
@@ -220,7 +223,7 @@ title:  "Інформаційний простір - джерела"
 
 - stack overflow (запитання та відповіді): [website](https://stackoverflow.com)
 
-##### Linux distributions <a name="linux-distributions"></a>
+#### Linux distributions <a name="linux-distributions"></a>
 
 - Ubuntu - user friendly Linux: [website](https://ubuntu.com)
 - Linux Mint - simple and friendly: [website](https://linuxmint.com)
