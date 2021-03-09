@@ -7,8 +7,8 @@ title:  "Книжки для шкільної бібліотеки"
 
 - [Моя книжкова полиця](https://mybookshelf.com.ua/)
 - [Книгарня Є](https://book-ye.com.ua/)
-- [Yakaboo](https://www.yakaboo.ua/)
 - [Книгарня Наш Формат](https://nashformat.ua/)
+- [Yakaboo](https://www.yakaboo.ua/)
 
 ### Книги
 
