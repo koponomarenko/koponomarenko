@@ -65,6 +65,8 @@ title:  "Інформаційний простір - джерела"
 
 - Phrasal Verb Cards: [Instagram](https://instagram.com/phrasalcards)
 
+- Preply - online заняття з англійської: [website](https://preply.com)
+
 #### Фільми та мультики Англійською мовою <a name="фільми-та-мультики-англійською-мовою"></a>
 
 - Netflix (платний ресурс) [website](https://www.netflix.com)
