@@ -183,6 +183,10 @@ title:  "Інформаційний простір - джерела"
 - Пирятин - Родіна: [YouTube Music](https://music.youtube.com/watch?v=CvRlFX90PMg&feature=share)
 - Жадан і Собаки - Мальви: [YouTube Music](https://music.youtube.com/watch?v=MA79bZOhUYQ&feature=share)
 - Zwyntar - Човен: [YouTube Music](https://music.youtube.com/watch?v=0fTuhBkxWlM&feature=share)
+- Фліт - Їжачок: [YouTube Music](https://music.youtube.com/watch?v=YLEldTxtJXg&feature=share)
+- Фліт - Невже не в цьому кайф?: [YouTube Music](https://music.youtube.com/watch?v=Re1qe-cO0qw&feature=share)
+- Фліт - Вихід є!: [YouTube Music](https://music.youtube.com/watch?v=DtpAuPKGrRk&feature=share)
+- Flit - KUMY: [YouTube Music](https://music.youtube.com/watch?v=Uo6rZXRFOYI&feature=share)
 
 - TVORCHI - Не танцюю: [YouTube Music](https://music.youtube.com/watch?v=3iRxdWWorw0&feature=share)
 - TVORCHI - Мова Тіла: [YouTube Music](https://music.youtube.com/watch?v=llcduMZEUqg&feature=share)
