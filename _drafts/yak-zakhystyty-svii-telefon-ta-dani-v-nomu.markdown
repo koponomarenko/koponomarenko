@@ -13,4 +13,5 @@ title:  "Як захистити свій телефон та дані в ньо
 
 Не ставити непотрібні чи підозрілі програми чи ігри на телефон.
 
+Stolen or lost Android phone? Here's how to get it back [website](https://www.cnet.com/how-to/stolen-or-lost-android-phone-heres-how-to-get-it-back/).
 
