@@ -187,6 +187,9 @@ title:  "Інформаційний простір - джерела"
 - Фліт - Невже не в цьому кайф?: [YouTube Music](https://music.youtube.com/watch?v=Re1qe-cO0qw&feature=share)
 - Фліт - Вихід є!: [YouTube Music](https://music.youtube.com/watch?v=DtpAuPKGrRk&feature=share)
 - Flit - KUMY: [YouTube Music](https://music.youtube.com/watch?v=Uo6rZXRFOYI&feature=share)
+- Лінія Маннергейма - Де твоя лінія: [YouTube Music](https://music.youtube.com/watch?v=hZJRW6eqcCE&feature=share)
+- Лінія Маннергейма - Міста: [YouTube Music](https://music.youtube.com/watch?v=Bu0kVBZJQMo&feature=share)
+- Лінія Маннергейма - Ісус із Назарета: [YouTube Music](https://music.youtube.com/watch?v=8nzoOK4dkDE&feature=share)
 
 - TVORCHI - Не танцюю: [YouTube Music](https://music.youtube.com/watch?v=3iRxdWWorw0&feature=share)
 - TVORCHI - Мова Тіла: [YouTube Music](https://music.youtube.com/watch?v=llcduMZEUqg&feature=share)
