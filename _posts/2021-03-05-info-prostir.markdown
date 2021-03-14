@@ -180,6 +180,7 @@ title:  "Інформаційний простір - джерела"
 - ТНМК - Восени: [YouTube Music](https://music.youtube.com/watch?v=LvTeJ-9wwII&feature=share)
 - ТНМК - Файне місто тернопіль: [YouTube Music](https://music.youtube.com/watch?v=px6oKtSmafg&feature=share)
 
+- Шабля - Браття українці: [YouTube Music](https://music.youtube.com/watch?v=KAGr-ZexCsY&feature=share)
 - Пирятин - Родіна: [YouTube Music](https://music.youtube.com/watch?v=CvRlFX90PMg&feature=share)
 - Жадан і Собаки - Мальви: [YouTube Music](https://music.youtube.com/watch?v=MA79bZOhUYQ&feature=share)
 - Zwyntar - Човен: [YouTube Music](https://music.youtube.com/watch?v=0fTuhBkxWlM&feature=share)
@@ -189,7 +190,6 @@ title:  "Інформаційний простір - джерела"
 - Flit - KUMY: [YouTube Music](https://music.youtube.com/watch?v=Uo6rZXRFOYI&feature=share)
 - Лінія Маннергейма - Де твоя лінія: [YouTube Music](https://music.youtube.com/watch?v=hZJRW6eqcCE&feature=share)
 - Лінія Маннергейма - Міста: [YouTube Music](https://music.youtube.com/watch?v=Bu0kVBZJQMo&feature=share)
-- Лінія Маннергейма - Ісус із Назарета: [YouTube Music](https://music.youtube.com/watch?v=8nzoOK4dkDE&feature=share)
 
 - TVORCHI - Не танцюю: [YouTube Music](https://music.youtube.com/watch?v=3iRxdWWorw0&feature=share)
 - TVORCHI - Мова Тіла: [YouTube Music](https://music.youtube.com/watch?v=llcduMZEUqg&feature=share)
