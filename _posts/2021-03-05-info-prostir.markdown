@@ -67,9 +67,9 @@ title:  "Інформаційний простір - джерела"
 
 - Preply - online заняття з англійської: [website](https://preply.com)
 
-#### Фільми та мультики Англійською мовою <a name="фільми-та-мультики-англійською-мовою"></a>
+#### Фільми, мультики та цікавий контент Англійською мовою <a name="фільми-та-мультики-англійською-мовою"></a>
 
-- Netflix (платний ресурс) [website](https://www.netflix.com)
+- TED (Technology, Entertainment, Design) talks: [website](https://www.ted.com/talks), [YouTube](https://www.youtube.com/channel/UCAuUUnT6oDeKwE6v1NGQxug)
 
 ### Музика <a name="музика"></a>
 
