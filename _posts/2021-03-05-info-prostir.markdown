@@ -38,6 +38,7 @@ title:  "Інформаційний простір - джерела"
 
 - Human innovation and technology: [YouTube](https://www.youtube.com/channel/UCXQ0opKNREpA62x7gMk_hZw)
 
+- Khan Academy - online tools for education: [website](https://www.khanacademy.org)
 
 ### Новини <a name="новини"></a>
 
