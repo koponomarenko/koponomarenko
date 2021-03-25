@@ -215,6 +215,7 @@ title:  "Інформаційний простір - джерела"
 - Dima Maleev: [YouTube](https://www.youtube.com/channel/UC20M3T-H-Pv0FPOEfeQJtNQ)
 
 - NetworkChuck (Generic IT, Linux oriented): [YouTube](https://www.youtube.com/channel/UC9x0AN7BWHpCDHSm9NiJFJQ)
+- LearnLinuxTV: [YouTube](https://www.youtube.com/channel/UCxQKHvKbmSzGMvUrVtJYnUA)
 - Luke Smith (Generic IT, Linux oriented): [YouTube](https://www.youtube.com/channel/UC2eYFnH61tmytImy1mTYvhA)
 - ExplainingComputers: [YouTube](https://www.youtube.com/channel/UCbiGcwDWZjz05njNPrJU7jA)
 - ETA PRIME: [YouTube](https://www.youtube.com/channel/UC_0CVCfC_3iuHqmyClu59Uw)
